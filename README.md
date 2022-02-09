@@ -30,7 +30,7 @@
 
 ## Other
 
-See open issues on GitHub.
+See open issues on GitHub. 
 
 # Changes to Ghidra packages
 
