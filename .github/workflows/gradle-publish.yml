@@ -32,7 +32,7 @@ jobs:
       with:
         arguments: build
         gradle-version: 7.4
-        build-root-directory: .\MinidumpLoader
+        build-root-directory: MinidumpLoader
         
 
     # The USERNAME and TOKEN need to correspond to the credentials environment variables used in
